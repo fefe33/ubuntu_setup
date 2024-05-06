@@ -1,0 +1,6 @@
+tcpdump
+nmap
+whois
+wireshark-qt
+netdiscover
+sleuthkit
