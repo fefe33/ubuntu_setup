@@ -7,3 +7,4 @@ for default packages:
   <li>radios.txt for radio related packages</li>
   <li>hacking.txt for haxking related packages</li>
 </ul>
+feel free to add or remove packages as seen fit.
