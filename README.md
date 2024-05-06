@@ -1,6 +1,6 @@
 # ubuntu_setup
-a quick setup script for ubuntu in python
-#3 txt files for APT packages you want installed:
+a quick setup script for ubuntu using APT and NMCLI in python
+# 3 txt files for APT packages you want installed:
 for default packages:
 <ul>
   <li>default.txt for default packages</li>
